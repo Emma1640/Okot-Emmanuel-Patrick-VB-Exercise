@@ -1,0 +1,16 @@
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\bin\Debug\net8.0-windows\Exercise Three.exe
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\bin\Debug\net8.0-windows\Exercise Three.deps.json
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\bin\Debug\net8.0-windows\Exercise Three.runtimeconfig.json
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\bin\Debug\net8.0-windows\Exercise Three.dll
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\bin\Debug\net8.0-windows\Exercise Three.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\Exercise_Three.Form1.resources
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\Exercise Three.vbproj.GenerateResource.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\Exercise Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\Exercise Three.AssemblyInfoInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\Exercise Three.AssemblyInfo.vb
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\Exercise Three.vbproj.CoreCompileInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\Exercise Three.dll
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\refint\Exercise Three.dll
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\Exercise Three.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\Exercise Three.genruntimeconfig.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Three\Exercise Three\Exercise Three\obj\Debug\net8.0-windows\ref\Exercise Three.dll

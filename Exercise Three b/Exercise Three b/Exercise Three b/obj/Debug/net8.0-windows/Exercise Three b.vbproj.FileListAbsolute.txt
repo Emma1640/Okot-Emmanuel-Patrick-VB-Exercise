@@ -1,0 +1,16 @@
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\bin\Debug\net8.0-windows\Exercise Three b.exe
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\bin\Debug\net8.0-windows\Exercise Three b.deps.json
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\bin\Debug\net8.0-windows\Exercise Three b.runtimeconfig.json
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\bin\Debug\net8.0-windows\Exercise Three b.dll
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\bin\Debug\net8.0-windows\Exercise Three b.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\Exercise_Three_b.Form1.resources
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\Exercise Three b.vbproj.GenerateResource.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\Exercise Three b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\Exercise Three b.AssemblyInfoInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\Exercise Three b.AssemblyInfo.vb
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\Exercise Three b.vbproj.CoreCompileInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\Exercise Three b.dll
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\refint\Exercise Three b.dll
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\Exercise Three b.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\Exercise Three b.genruntimeconfig.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Three b\Exercise Three b\Exercise Three b\obj\Debug\net8.0-windows\ref\Exercise Three b.dll
