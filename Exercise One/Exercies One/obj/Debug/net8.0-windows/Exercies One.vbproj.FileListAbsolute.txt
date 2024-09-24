@@ -1,0 +1,16 @@
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\bin\Debug\net8.0-windows\Exercies One.exe
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\bin\Debug\net8.0-windows\Exercies One.deps.json
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\bin\Debug\net8.0-windows\Exercies One.runtimeconfig.json
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\bin\Debug\net8.0-windows\Exercies One.dll
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\bin\Debug\net8.0-windows\Exercies One.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\Exercies_One.Form1.resources
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\Exercies One.vbproj.GenerateResource.cache
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\Exercies One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\Exercies One.AssemblyInfoInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\Exercies One.AssemblyInfo.vb
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\Exercies One.vbproj.CoreCompileInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\Exercies One.dll
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\refint\Exercies One.dll
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\Exercies One.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\Exercies One.genruntimeconfig.cache
+C:\Users\MIGHTYONE\Desktop\Exercise One\Exercies One\Exercies One\obj\Debug\net8.0-windows\ref\Exercies One.dll

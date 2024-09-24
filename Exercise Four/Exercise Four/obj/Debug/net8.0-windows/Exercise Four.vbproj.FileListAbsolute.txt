@@ -1,0 +1,32 @@
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.exe
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.deps.json
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.runtimeconfig.json
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.dll
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise_Four.Form1.resources
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.vbproj.GenerateResource.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.AssemblyInfoInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.AssemblyInfo.vb
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.vbproj.CoreCompileInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.dll
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\refint\Exercise Four.dll
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.genruntimeconfig.cache
+C:\Users\MIGHTYONE\Desktop\Exercise Four\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\ref\Exercise Four.dll
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.exe
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.deps.json
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.runtimeconfig.json
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.dll
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\bin\Debug\net8.0-windows\Exercise Four.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise_Four.Form1.resources
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.vbproj.GenerateResource.cache
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.AssemblyInfoInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.AssemblyInfo.vb
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.vbproj.CoreCompileInputs.cache
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.dll
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\refint\Exercise Four.dll
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.pdb
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\Exercise Four.genruntimeconfig.cache
+C:\Users\MIGHTYONE\Desktop\Exercise\Exercise Four\Exercise Four\obj\Debug\net8.0-windows\ref\Exercise Four.dll
